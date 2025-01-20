@@ -44,7 +44,7 @@ Here are a few projects I've worked on that I'm proud of:
 
 ## 📫 Get in Touch
 
-- **Email:** [admin@vchychuzhko.com](mailto:admin@vchychuzhko.com)
+- **Email:** [dev@vchychuzhko.com](mailto:dev@vchychuzhko.com)
 - **LinkedIn:** [linkedin.com/in/vchychuzhko](https://www.linkedin.com/in/vchychuzhko/)
 - **Portfolio:** [vchychuzhko.com](https://vchychuzhko.com)
 
