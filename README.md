@@ -25,13 +25,18 @@ Here are a few projects I've worked on that I'm proud of:
 
 ### 1. **Audio Visualizer App**
 - **Description:** Built a web app using Symfony, that allows playing mp3 files while visualizing them in real time.
-- **Tech Stack:** Symfony
+- **Tech Stack:** Symfony, JavaScript, PHP
 - **Link:** [Repository](https://github.com/vchychuzhko/playsome)
 
 ### 2. **Notification Shell Script**
 - **Description:** Created a compact script that sends a notification via Telegram when the console command is complete.
 - **Tech Stack:** Bash
 - **Link:** [Repository](https://github.com/vchychuzhko/notifyme)
+
+### 3. **Blog Website**
+- **Description:** Designed and developed a personal blog website to showcase my thoughts and knowledge.
+- **Tech Stack:** VitePress, Markdown, TypeScript
+- **Link:** [Live Site](https://blog.vchychuzhko.com)
 
 ---
 
