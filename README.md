@@ -35,12 +35,12 @@ Here are a few projects I've worked on that I'm proud of:
 
 ### 3. **Personal Accountant**
 - **Description:** Accountant application to manage finances.
-- **Tech Stack:** Symfony, EasyAdmin, Chart.js
+- **Tech Stack:** Symfony, EasyAdmin, Chart.js, Bootstrap
 - **Link:** [Demo](https://pa-demo.vchychuzhko.com)
 
 ### 4. **Blog Website**
 - **Description:** Personal blog website to showcase my thoughts and knowledge.
-- **Tech Stack:** VitePress, Markdown, TypeScript
+- **Tech Stack:** VitePress, Markdown
 - **Link:** [Live Site](https://blog.vchychuzhko.com)
 
 ---
