@@ -11,11 +11,11 @@ Welcome to my GitHub! I'm a **Full Stack Developer** passionate about building e
     - **Backend:** PHP, Symfony, Node.js
     - **CMS/Platforms:** Magento 2
     - **Databases:** MySQL
-    - **Tools & Workflow:** Elasticsearch, Git, Docker, REST APIs, GraphQL, Composer, npm/yarn
+    - **Tools & Workflow:** Git, Docker, REST APIs, Bash, Composer, npm/yarn, Elasticsearch, SVG
 
 - 🌱 **Currently learning:** Exploring more about modern frontend platforms and tools.
 - 🤝 **Looking to collaborate on:** Full-stack applications, Vue.js projects, and PHP-based solutions.
-- 🌍 **Languages:** Fluent in English, Ukrainian, and russian.
+- 🌍 **Languages:** Fluent English and Ukrainian.
 
 ---
 
@@ -57,14 +57,6 @@ Here are a few projects I've worked on that I'm proud of:
 - **Email:** [dev@vchychuzhko.com](mailto:dev@vchychuzhko.com)
 - **LinkedIn:** [linkedin.com/in/vchychuzhko](https://www.linkedin.com/in/vchychuzhko/)
 - **Portfolio:** [vchychuzhko.com](https://vchychuzhko.com)
-
----
-
-## 🌟 Fun Facts
-
-- 🛠️ I enjoy experimenting with new technologies in my free time.
-- 🌍 I love traveling and learning about different cultures.
-- 📚 Active reader of tech blogs and open-source news.
 
 ---
 
