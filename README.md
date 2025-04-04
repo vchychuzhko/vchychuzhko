@@ -25,7 +25,7 @@ Here are a few projects I've worked on that I'm proud of:
 
 ### 1. **Audio Visualizer App**
 - **Description:** Web app, that allows playing mp3 files while visualizing them in real time.
-- **Tech Stack:** Symfony, JavaScript, PHP
+- **Tech Stack:** Symfony, JavaScript
 - **Link:** [Repository](https://github.com/vchychuzhko/playsome)
 
 ### 2. **Notification Shell Script**
@@ -35,13 +35,13 @@ Here are a few projects I've worked on that I'm proud of:
 
 ### 3. **Personal Accountant**
 - **Description:** Accountant application to manage finances.
-- **Tech Stack:** Symfony, EasyAdmin, Chart.js, Bootstrap
+- **Tech Stack:** Symfony, EasyAdmin, Chart.js
 - **Link:** [Demo](https://pa-demo.vchychuzhko.com)
 
-### 4. **Blog Website**
-- **Description:** Personal blog website to showcase my thoughts and knowledge.
-- **Tech Stack:** VitePress, Markdown
-- **Link:** [Live Site](https://blog.vchychuzhko.com)
+### 4. **Personal Website & Portfolio**
+- **Description:** Personal Website to showcase my skills and portfolio.
+- **Tech Stack:** VitePress
+- **Link:** [Live](https://vchychuzhko.com)
 
 ---
 
