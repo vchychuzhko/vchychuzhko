@@ -1,16 +1,16 @@
 # Hello there! 👋
 
-Welcome to my GitHub! I'm a **Full Stack Developer** passionate about building efficient, scalable, and user-friendly web applications. My expertise lies in working with **Vue.js** and **PHP**, and I have professional experience with frameworks like **Symfony** and platforms like **Magento**.
+Welcome to my GitHub! I'm a **Full Stack Developer** passionate about building efficient, scalable, and user-friendly web applications. My expertise lies in working with **Vue.js** and **PHP**, and I have professional experience with platforms like **Magento**, **Symfony** and **Nuxt**.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔧 **Technologies I work with:**
-    - **Frontend:** Vue.js, JavaScript (ES6+), HTML5, CSS3
-    - **Backend:** PHP, Symfony, Node.js
-    - **CMS/Platforms:** Magento 2
-    - **Databases:** MySQL
+    - **Frontend:** Vue.js, JavaScript, HTML5, CSS3
+    - **Backend:** PHP, Node.js
+    - **CMS/Platforms:** Magento 2, Symfony, Nuxt
+    - **Databases:** MySQL, Supabase
     - **Tools & Workflow:** Git, Docker, REST APIs, Bash, Composer, npm/yarn, Elasticsearch, SVG
 
 - 🌱 **Currently learning:** Exploring more about modern frontend platforms and tools.
@@ -55,7 +55,6 @@ Here are a few projects I've worked on that I'm proud of:
 ## 📫 Get in Touch
 
 - **Email:** [dev@vchychuzhko.com](mailto:dev@vchychuzhko.com)
-- **LinkedIn:** [linkedin.com/in/vchychuzhko](https://www.linkedin.com/in/vchychuzhko/)
 - **Portfolio:** [vchychuzhko.com](https://vchychuzhko.com)
 
 ---
