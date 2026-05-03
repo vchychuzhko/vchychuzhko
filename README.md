@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** passionate about building e
     - **Backend:** PHP, Node.js
     - **CMS/Platforms:** Magento 2, Symfony, Nuxt
     - **Databases:** MySQL, Supabase
-    - **Tools & Workflow:** Git, Docker, REST APIs, Bash, Composer, npm/yarn, Elasticsearch, SVG
+    - **Tools & Workflow:** Git, Docker, REST APIs, Bash, Composer, NPM/Yarn, Elasticsearch, XML/SVG
 
 - 🌱 **Currently learning:** Exploring more about modern frontend platforms and tools.
 - 🤝 **Looking to collaborate on:** Full-stack applications, Vue.js projects, and PHP-based solutions.
@@ -35,8 +35,9 @@ Here are a few projects I've worked on that I'm proud of:
 
 ### 3. **Personal Accountant**
 - **Description:** Accountant application to manage finances.
-- **Tech Stack:** Symfony, EasyAdmin, Chart.js
+- **Tech Stack:** Symfony, EasyAdmin, Chart.js, Docker
 - **Link:** [Demo](https://pa-demo.vchychuzhko.com)
+- **Link:** [Docker Hub](https://hub.docker.com/r/vchychuzhko/personal-accountant)
 
 ### 4. **Personal Website & Portfolio**
 - **Description:** Personal Website to showcase my skills and portfolio.
