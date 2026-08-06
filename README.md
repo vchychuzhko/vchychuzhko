@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** passionate about building e
     - **DevOps:** Docker, Kubernetes, Magento Cloud
     - **Tools & Workflow:** Git, Bash, Elasticsearch, Redis
 
-- 🤝 **Looking to collaborate on:** Full-stack applications, JS or PHP based projects.
+- 🤝 **Looking to collaborate on:** Full-stack applications, JavaScript or PHP based projects.
 - 🌍 **Languages:** Fluent English and Ukrainian.
 
 ---
